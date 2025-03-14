@@ -1,4 +1,4 @@
-# Profiles
+# Project1 - Student Portfolios
 NewProject - students profiles 
 
 Yugesh: 
